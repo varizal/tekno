@@ -1,0 +1,38 @@
+{
+  "name": "KompiTextAja",
+  "short_name": "KompiTextAja",
+  "start_url": "https://www.teknologivirtual.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-knPIiPv40b0/XFG5b7nRulI/AAAAAAAAF70/0u_iji6sKXs99Rj5kFXlfrh78N-ipzESwCLcBGAs/s1600/Tek%2B48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-PNF_HAjZcq0/XFG5cz_ApoI/AAAAAAAAF8A/7_710unHt8o9sL8J5LI3dnF_jCP3X2OoACLcBGAs/s1600/Tek%2B72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-5gy4yUp7gyY/XFG5c4SI5pI/AAAAAAAAF8E/ma3f3gH1LkcIurvjROKwaWFyDG7ONxr8gCLcBGAs/s1600/Tek%2B96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Eis1Li3eedg/XFG3AXuQQ5I/AAAAAAAAF7U/cu1OrcHP8hYfm7a4Orgs75FWMxCSKE4FwCLcBGAs/s1600/Tek%2B144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-IoDksa6Bwiw/XFG5b-zNjwI/AAAAAAAAF78/V0ApJCGkjd48hhfgD1oIzoJ4vgBptwrlQCLcBGAs/s1600/Tek%2B168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ZAfHtZghbYw/XFG5b7efRoI/AAAAAAAAF74/ZSGZuHuJsN4H88trfhh_vAAwT7zQtTSlgCLcBGAs/s1600/Tek%2B192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-c_C4vCxJ7ko/XFG5cxFVGAI/AAAAAAAAF8I/Buk0GmnFA2c_UOuEcViPjnaFVz7H1sdzgCLcBGAs/s320/Tek%2B512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
